@@ -2,5 +2,5 @@
   "appName": "TechConsultingApp",
   "version": "1.1.0",
   "theme": "light",
-  "maxUsers": 100
+  "maxUsers": 500
 }
